@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ns976-web.github.io/say-it-aint-so-project/sitemap.xml
